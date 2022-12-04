@@ -1,5 +1,6 @@
 # django_blog_project
 <h1> Django Project which includes most of the functionalities </h1>
+
 ![image](https://user-images.githubusercontent.com/67830778/205513491-cfbf8069-85a4-41af-b4bd-a7c8402ed0aa.png)
 
 ![image](https://user-images.githubusercontent.com/67830778/205513399-9e287e29-8d8b-4cd7-aac4-834369f615e1.png)
