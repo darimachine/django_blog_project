@@ -1,6 +1,10 @@
 # django_blog_project
 <h1> Django Project which includes most of the functionalities </h1>
+Users can register and login. They also have full CRUD operations on their profile and uploaded content.
 
+Every user can post their blogs edit na delete them.
+
+Administrators have full control of the application.
 
 
 ![image](https://user-images.githubusercontent.com/67830778/205513399-9e287e29-8d8b-4cd7-aac4-834369f615e1.png)
