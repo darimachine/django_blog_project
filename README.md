@@ -2,7 +2,7 @@
 <h1> Django Project which includes most of the functionalities </h1>
 Users can register and login. They also have full CRUD operations on their profile and uploaded content.
 
-Every user can post their blogs edit na delete them.
+Every user can post their blogs, edit and delete them.
 
 Administrators have full control of the application.
 
